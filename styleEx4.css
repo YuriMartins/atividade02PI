@@ -1,0 +1,77 @@
+.div1 {
+    width: 80vw;
+    background-color: rgb(100, 47, 47);
+    height: 40vh;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.div2 {
+    background-color: white;
+    width: 80%;
+    height: 60%;
+    border: 10px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p {
+    font-family: Arial, sans-serif;
+    color: rgb(39, 17, 233);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.column {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.blue {
+    background-color: blue;
+    width: 70vw;
+    height: 6vh;
+}
+.purple {
+    background-color: purple;
+    width: 40vw;
+    height: 6vh;
+}
+.green {
+    background-color: green;
+    width: 60vw;
+    height: 6vh;
+}
+.yellow {
+    background-color: yellow;
+    width: 50vw;
+    height: 6vh;
+}
+
+.row {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.redRow {
+    background-color: red;
+    width: 40vw;
+    height: 6vh;
+}
+.aquamariRow {
+    background-color: aquamarine;
+    width: 20vw;
+    height: 6vh;
+}
+.greenRow {
+    background-color: green;
+    width: 40vw;
+    height: 6vh;
+}
+
